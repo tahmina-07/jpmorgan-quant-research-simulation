@@ -1,4 +1,4 @@
-# JPMorgan Chase — Quantitative Research Virtual Experience
+# JPMorgan Chase - Quantitative Research Virtual Experience
 
 ## What this project does
 Estimates the price of natural gas on any given date using cubic spline
