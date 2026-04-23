@@ -21,5 +21,12 @@ print(estimate_price("2025-06-15"))  # returns price in $/MMBtu
 ## Stack
 Python · Pandas · NumPy · SciPy · Matplotlib
 
+## Formula 
+Value = Revenue from selling
+      − Cost of buying
+      − Storage cost (rent × months × volume)
+      − Injection cost (fee × volume injected)
+      − Withdrawal cost (fee × volume withdrawn)
+
 ## Source
 JPMorgan Chase Quantitative Research Virtual Experience — Forage
